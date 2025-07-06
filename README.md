@@ -55,6 +55,8 @@ We explore **how teams, venues, and individual players contribute to game dynami
 - 📋**Jupyter Notebook**: EDA scripting
 - 📁**CSV Files**: IPL `deliveries.csv`
 - 🧼 Data cleaning and transformation
+
+---
   
 ### Key Techniques
 - Feature engineering (venue extraction, date-time conversion)
